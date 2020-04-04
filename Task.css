@@ -1,0 +1,85 @@
+body{
+    
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*pagebox wil hold entire page*/
+#pagebox{
+    
+    background-color: wheat;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*h1*/
+#heading1 {
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    text-align: center;
+    animation-play-state: running;
+    animation: forwards;
+    background-clip: border-box;
+    background-color: aquamarine;
+}
+
+/*contact details*/
+#list1{
+    margin: 0;
+    padding: 10px;
+    float: left;
+    color:black;
+    
+}
+
+/*Competencies*/
+#list2{
+    /* width: 10px; */
+   
+    padding: 10;
+    float: right;
+}
+
+/*Education and work experiance*/
+#heading4{
+    clear: both;
+    text-align: center;
+    
+}
+
+
+/*Projects worked on*/
+#projects{
+    text-align: center;
+    color: black;
+    clear: both;
+    background-color: aquamarine;
+    
+
+
+}
+
+
+
+/* p {
+    color: red, ;
+    font-family: Arial, Helvetica;
+    background-color: whitesmoke;
+    text-align: center;
+} */
+
+/* ul {
+    
+    text-align: center;
+    animation-play-state: running;
+    animation: forwards;
+    background-color:whitesmoke;
+} */
+
+/* body {
+    
+    text-align: center;
+} */
